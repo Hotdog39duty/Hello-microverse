@@ -200,17 +200,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Khanya Alo**
 
 - GitHub: [@hotdog39duty](https://github.com/githubhandle)
 - Twitter: [@Khanya_mvoko](https://twitter.com/twitterhandle)
 - LinkedIn: [@Khanya_mvoko](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
